@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SIDDIK.
 - 👀 I’m interested in writing code.
-- 🌱 I’m currently learning c programming and phyton.
+- 🌱 I’m currently learning c programming and python.
 - 📫 How to reach me sddkbaysal0619@gmail.com
 
 
